@@ -1,0 +1,11 @@
+Paver >>> color like blue
+
+fighter >>> color like green
+
+shileded >>> orange
+
+doctor >>> white
+
+stopper >>> yellow
+
+virtual >>> the dark color
