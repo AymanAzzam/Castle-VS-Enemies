@@ -1,13 +1,11 @@
-# Castle-VS-Enemies
-
+# Castle VS Enemies
 Game simulation with different modes step by step mode, interactive mode and silent mode.
 
-# Team Members
+### Team Members
+1. [Ayman Azzam](https://github.com/AymanAzzam).
 
-1.[Ayman Azzam](https://github.com/AymanAzzam)
+2. [Ayman ELakwah](https://github.com/aymanElakwah).
 
-2.[Ayman ELakwah](https://github.com/aymanElakwah)
+3. Ayman Abd-Elnaby.
 
-3.Ayman Abd-Elnaby
-
-4.Ahmed Hamdy
+4. Ahmed Hamdy.
