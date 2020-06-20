@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 align="Castle VS Enemies">Crawler</h2>
+  <h2 align="center">Castle VS Enemies</h2>
   <h4 align="center">Game simulation with different modes step by step mode, interactive mode and silent mode</h4>
   <img src="Images/Covers/end.jpg" height="25%" width="25%">
 </div>
